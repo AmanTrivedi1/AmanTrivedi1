@@ -1,4 +1,4 @@
-<img  alt="coding"  src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif">
+<img  alt="coding" width="50%" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
 # 💫 About Me:
 I'm currently Working on React.js<br>I'm looking to collaborate on web Development Projects<br>I'm currently learning Backend<br>Ask me about webDev Problems and Problem solving.<br> I don't open stack overflow.
 

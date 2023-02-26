@@ -1,4 +1,4 @@
-<img  alt="coding" width="100%" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg">
+<img  alt="coding" width="100%" src="">
 
 💫 About Me:<br/>
 I'm currently Working on React.js<br>I'm looking to collaborate on web Development Projects<br>I'm currently learning Backend<br>Ask me about webDev Problems and Problem solving.<br> I don't open stack overflow.

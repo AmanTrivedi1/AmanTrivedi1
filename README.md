@@ -14,13 +14,6 @@ I'm currently Working on React.js<br>I'm looking to collaborate on web Developme
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmanTrivedi1&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanTrivedi1&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmanTrivedi1&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Aman_trivedi10)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-
 <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=https://twitter.com/home?lang=en&theme=tokyonight&response=true&border=true&time=true&icon=radio"/></a>
 
 ### ✍️ Random Dev Quote
@@ -29,8 +22,6 @@ I'm currently Working on React.js<br>I'm looking to collaborate on web Developme
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AmanTrivedi1&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
+![snake gif](https://github.com/AmanTrivedi1/AmanTrivedi1/blob/output/github-contribution-grid-snake.gif)
 ---
 [![](https://visitcount.itsvg.in/api?id=AmanTrivedi1&icon=2&color=8)](https://visitcount.itsvg.in)

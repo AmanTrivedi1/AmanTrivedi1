@@ -19,8 +19,6 @@ I'm currently Working on React.js<br>I'm looking to collaborate on web Developme
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmanTrivedi1&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ![snake gif](https://github.com/AmanTrivedi1/AmanTrivedi1/blob/output/github-contribution-grid-snake.gif)
 ---

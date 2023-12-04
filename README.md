@@ -16,8 +16,7 @@ I'm currently Working on React.js<br>I'm looking to collaborate on web Developme
 
 <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=https://twitter.com/home?lang=en&theme=tokyonight&response=true&border=true&time=true&icon=radio"/></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 
 
 ![snake gif](https://github.com/AmanTrivedi1/AmanTrivedi1/blob/output/github-contribution-grid-snake.gif)

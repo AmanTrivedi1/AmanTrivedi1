@@ -1,7 +1,7 @@
 <img  alt="coding" width="100%" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 # 💫 About Me:
-I'm currently Working on React.js<br>I'm looking to collaborate on web Development Projects<br>I'm currently learning Backend<br>Ask me about web dev Problems and Problem-solving.<br>I don't open stack overflow.<br>Currently in love with typescript <br
+I'm currently Working on React.js<br>I'm looking to collaborate on web Development Projects<br>I'm currently learning Backend<br>Ask me about web dev Problems and Problem-solving.<br>I don't open stack overflow.<br>Currently in love with typescript
 
 
 ## 🌐 Socials:

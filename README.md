@@ -16,11 +16,7 @@ I'm currently Working on React.js<br>I'm looking to collaborate on web Developme
 
 
 
-<div align="left">
-  <a href="https://open.spotify.com/user/31brd4jg7t367w5sytk5vakehnyq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31brd4jg7t367w5sytk5vakehnyq&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
 

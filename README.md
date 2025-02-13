@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-I'm currently Working on React.js<br>I'm looking to collaborate on web Development Projects<br>I'm currently learning Backend<br>Ask me about web dev Problems and Problem-solving.<br>I don't open stack overflow.<br>Currently in love with typescript
+I'm currently Working on React.js<br>I'm looking to collaborate on web Development Projects<br>I'm currently learning Backend<br>Ask me about web dev Problems and Problem-solving.<br>I don't open stack overflow.<br>Currently working with .NET and Angular.
 
 
 ## 🌐 Socials:

@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Currently working with .NET and Angular.<br/>I'm looking to collaborate on web Development Projects<br>I'm currently learning Backend<br>Ask me about web dev Problems and Problem-solving.<br>I don't open stack overflow.<br>
+Currently working with .NET and Angular.<br/>I'm looking to collaborate on web Development Projects <br>Ask me about web dev Problems and Problem-solving.<br>I don't open stack overflow.<br>
 
 
 ## 🌐 Socials:
